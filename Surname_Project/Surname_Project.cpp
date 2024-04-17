@@ -21,6 +21,7 @@ double CalcArea(int num_a)
 double CalcPerim(int num_a)
 {
 	//разрабатывается Васильевым В. - ветка branch_fun_3
+	return 4 * num_a;
 }
 
 int main()
