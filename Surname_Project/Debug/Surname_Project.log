@@ -1,16 +1,4 @@
-﻿Сборка начата 21.11.2023 18:21:44.
-     1>Проект "E:\_Таня\_War_Russia_2022\Вологда\Работа\ВГУ\Уч_процесс\Проектирование ПО\Лабораторные работы\ЛР1_Git\Surname_Project\Surname_Project.vcxproj" в узле 2 (целевые объекты Rebuild).
-     1>ClCompile:
-         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yc"stdafx.h" /Fp"Debug\Surname_Project.pch" /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt stdafx.cpp
-         stdafx.cpp
-         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"stdafx.h" /Fp"Debug\Surname_Project.pch" /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt Surname_Project.cpp
-         Surname_Project.cpp
-       Link:
-         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"E:\_Таня\_War_Russia_2022\Вологда\Работа\ВГУ\Уч_процесс\Проектирование ПО\Лабораторные работы\ЛР1_Git\Surname_Project\Debug\Surname_Project.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"E:\_Таня\_War_Russia_2022\Вологда\Работа\ВГУ\Уч_процесс\Проектирование ПО\Лабораторные работы\ЛР1_Git\Surname_Project\Debug\Surname_Project.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"E:\_Таня\_War_Russia_2022\Вологда\Работа\ВГУ\Уч_процесс\Проектирование ПО\Лабораторные работы\ЛР1_Git\Surname_Project\Debug\Surname_Project.lib" /MACHINE:X86 Debug\stdafx.obj
-         Debug\Surname_Project.obj
-         Surname_Project.vcxproj -> E:\_Таня\_War_Russia_2022\Вологда\Работа\ВГУ\Уч_процесс\Проектирование ПО\Лабораторные работы\ЛР1_Git\Surname_Project\Debug\Surname_Project.exe
-     1>Сборка проекта "E:\_Таня\_War_Russia_2022\Вологда\Работа\ВГУ\Уч_процесс\Проектирование ПО\Лабораторные работы\ЛР1_Git\Surname_Project\Surname_Project.vcxproj" завершена (целевые объекты Rebuild).
-
-Сборка успешно завершена.
-
-Затраченное время: 00:00:01.04
+﻿  Surname_Project.cpp
+E:\PPS\Surname_Repository_v3\Surname_Repository_v3_1\Surname_Project\Surname_Project.cpp(62,15): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+E:\PPS\Surname_Repository_v3\Surname_Repository_v3_1\Surname_Project\Surname_Project.cpp(67,16): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+  Surname_Project.vcxproj -> E:\PPS\Surname_Repository_v3\Surname_Repository_v3_1\Surname_Project\Debug\Surname_Project.exe
