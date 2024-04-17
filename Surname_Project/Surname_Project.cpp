@@ -26,7 +26,11 @@ double EnterNumber()
 double CalcArea(int num_a)
 {
 	//разрабатывается Петровым П. - ветка branch_fun_2
+<<<<<<< HEAD
+	return num_a * num_a;
+=======
 	return 0;
+>>>>>>> 68f3aa636bd8a0be19abee5719cbf61bc2ca91fd
 }
 
 double CalcPerim(int num_a)
